@@ -10,8 +10,8 @@ a jupyter notebook implementing image preprocessing, vgg training and evaluation
 Here below shows the best and the worst detections with prediction in red and true box in blue.
 
 
-   <img src="https://github.com/kun126/vgg-object-detection-example/blob/main/best%205.png" width=50% height=50%>
-   <img src="https://github.com/kun126/vgg-object-detection-example/blob/main/worst%205.png" width=50% height=50%>
+   <img src="https://github.com/kun126/vgg-object-detection-example/blob/main/best%205.png" width=80% height=80%>
+   <img src="https://github.com/kun126/vgg-object-detection-example/blob/main/worst%205.png" width=80% height=80%>
 
 
 ### sample images
